@@ -1,1 +1,0 @@
-scp -r /srv/testbed/results/erhauser/default/2026-11-07_16-23-51_928513/files/sniffer/ evaluator:/root/sniffer-raw/pcaps

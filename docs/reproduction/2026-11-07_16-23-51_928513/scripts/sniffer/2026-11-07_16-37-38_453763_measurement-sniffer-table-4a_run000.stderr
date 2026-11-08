@@ -1,3 +1,0 @@
-2026-11-07 15:40:04,846 WARNING  No running process found
-latencies-pre.pcap   : 29.27%   (  9.83 MiB =>   2.88 MiB, latencies-pre.pcap.zst) 
-latencies-post.pcap  : 82.37%   (  24.6 MiB =>   20.2 MiB, latencies-post.pcap.zst) 

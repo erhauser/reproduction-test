@@ -1,1 +1,0 @@
-scp -r /home/erhauser/repositories/research/experiment-yang-mininet/net_topology emulation-host:/root/net_topology
