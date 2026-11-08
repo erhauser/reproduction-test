@@ -1,0 +1,466 @@
+{
+    "motherboard": {
+        "bios": {
+            "date": "10/04/2018",
+            "vendor": "American Megatrends",
+            "version": "1.0c"
+        },
+        "model": "H11SSL-NC",
+        "vendor": "Supermicro",
+        "revision": "1.01"
+    },
+    "processor": [
+        {
+            "slot": "CPU",
+            "cores": 32,
+            "model": "EPYC 7551P",
+            "vendor": "AMD",
+            "threads": 64,
+            "version": "23.1.2",
+            "microcode": "134222375",
+            "virtualized": false,
+            "architecture": "64bit"
+        }
+    ],
+    "memory": {
+        "dimms": [
+            {
+                "slot": "DIMMA1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF8898",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            },
+            {
+                "slot": "DIMMB1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF890C",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            },
+            {
+                "slot": "DIMMC1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF8896",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            },
+            {
+                "slot": "DIMMD1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF8912",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            },
+            {
+                "slot": "DIMME1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF8891",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            },
+            {
+                "slot": "DIMMF1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF890B",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            },
+            {
+                "slot": "DIMMG1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF8897",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            },
+            {
+                "slot": "DIMMH1",
+                "type": "DDR4",
+                "empty": false,
+                "model": "M393A2K40CB2-CTD",
+                "serial": "40CF89B2",
+                "vendor": "Samsung",
+                "capacity_bytes": 17179869184,
+                "maximum_speed_val": 2667,
+                "capacity_human_val": 16,
+                "maximum_speed_unit": "MHz",
+                "capacity_human_unit": "GiB",
+                "operational_speed_val": 2667,
+                "operational_speed_unit": "MHz"
+            }
+        ],
+        "dimm_slots": 8,
+        "ecc_details": "Multi-bit ECC",
+        "ecc_support": true,
+        "maximum_capacity_bytes": 2199023255552,
+        "installed_capacity_bytes": 137438953472,
+        "maximum_capacity_human_val": 2048,
+        "maximum_capacity_human_unit": "GiB",
+        "installed_capacity_human_val": 128,
+        "installed_capacity_human_unit": "GiB"
+    },
+    "storage": [
+        {
+            "model": "NVMe disk",
+            "serial": null,
+            "vendor": null,
+            "version": null,
+            "dev_name": "hwmon0",
+            "size_bytes": null,
+            "bus_address": null,
+            "size_human_val": null,
+            "size_human_unit": null
+        },
+        {
+            "model": "NVMe disk",
+            "serial": null,
+            "vendor": null,
+            "version": null,
+            "dev_name": "hwmon1",
+            "size_bytes": null,
+            "bus_address": null,
+            "size_human_val": null,
+            "size_human_unit": null
+        },
+        {
+            "model": "MZWLL800HEHP-00003",
+            "serial": "S3HCNX0K400480",
+            "vendor": "Samsung",
+            "version": "GPNA5B3Q",
+            "dev_name": "/dev/nvme0",
+            "size_bytes": 800166076416,
+            "bus_address": "pci@0000:61:00.0",
+            "size_human_val": 800.166076416,
+            "size_human_unit": "GB"
+        },
+        {
+            "model": "MZWLL800HEHP-00003",
+            "serial": "S3HCNX0K800736",
+            "vendor": "Samsung",
+            "version": "GPNA5B3Q",
+            "dev_name": "/dev/nvme1",
+            "size_bytes": 800166076416,
+            "bus_address": "pci@0000:62:00.0",
+            "size_human_val": 800.166076416,
+            "size_human_unit": "GB"
+        }
+    ],
+    "graphics": [],
+    "network": [
+        {
+            "model": "I210 Gigabit",
+            "vendor": "Intel",
+            "version": "03",
+            "firmware": "3.25, 0x800005cc",
+            "interfaces": [
+                {
+                    "mac": "ac:1f:6b:ad:01:8e",
+                    "dev_name": "eno1",
+                    "bus_address": "pci@0000:04:00.0",
+                    "current_configuration": {
+                        "link_detected": true,
+                        "link_speed_val": 1,
+                        "link_speed_unit": "Gbit/s",
+                        "transceiver_type": "Internal transceiver",
+                        "transceiver_model": null,
+                        "transceiver_modes": [
+                            "10baseT/Half",
+                            "10baseT/Full",
+                            "100baseT/Half",
+                            "100baseT/Full",
+                            "1000baseT/Full"
+                        ],
+                        "transceiver_medium": "Twisted Pair Cable",
+                        "transceiver_serial": null,
+                        "transceiver_revision": null
+                    }
+                }
+            ],
+            "bus_address": "pci@0000:04:00.0"
+        },
+        {
+            "model": "I210 Gigabit",
+            "vendor": "Intel",
+            "version": "03",
+            "firmware": "3.25, 0x800005d0",
+            "interfaces": [
+                {
+                    "mac": "ac:1f:6b:ad:01:8f",
+                    "dev_name": "eno2",
+                    "bus_address": "pci@0000:05:00.0",
+                    "current_configuration": {
+                        "link_detected": true,
+                        "link_speed_val": 1,
+                        "link_speed_unit": "Gbit/s",
+                        "transceiver_type": "Internal transceiver",
+                        "transceiver_model": null,
+                        "transceiver_modes": [
+                            "10baseT/Half",
+                            "10baseT/Full",
+                            "100baseT/Half",
+                            "100baseT/Full",
+                            "1000baseT/Full"
+                        ],
+                        "transceiver_medium": "Twisted Pair Cable",
+                        "transceiver_serial": null,
+                        "transceiver_revision": null
+                    }
+                }
+            ],
+            "bus_address": "pci@0000:05:00.0"
+        },
+        {
+            "model": "E810-XXV for SFP",
+            "vendor": "Intel",
+            "version": "02",
+            "firmware": "3.20 0x8000d853 1.3146.0",
+            "interfaces": [
+                {
+                    "mac": "50:7c:6f:52:14:0e",
+                    "dev_name": "enp33s0f0",
+                    "bus_address": "pci@0000:21:00.0",
+                    "current_configuration": {
+                        "link_detected": false,
+                        "link_speed_val": null,
+                        "link_speed_unit": null,
+                        "transceiver_type": "No pluggable transceiver found",
+                        "transceiver_model": null,
+                        "transceiver_modes": null,
+                        "transceiver_medium": null,
+                        "transceiver_serial": null,
+                        "transceiver_revision": null
+                    }
+                },
+                {
+                    "mac": "50:7c:6f:52:14:0f",
+                    "dev_name": "enp33s0f1",
+                    "bus_address": "pci@0000:21:00.1",
+                    "current_configuration": {
+                        "link_detected": true,
+                        "link_speed_val": 25,
+                        "link_speed_unit": "Gbit/s",
+                        "transceiver_type": "SFP",
+                        "transceiver_model": "P.1325G.10",
+                        "transceiver_modes": [
+                            "25000baseSR/Full",
+                            "10000baseSR/Full"
+                        ],
+                        "transceiver_medium": "Optical Fiber",
+                        "transceiver_serial": "F7ACVM5",
+                        "transceiver_revision": "A"
+                    }
+                }
+            ],
+            "bus_address": "pci@0000:21:00.{0,1}"
+        },
+        {
+            "model": "X550",
+            "vendor": "Intel",
+            "version": "01",
+            "firmware": "0x80000483, 17.5.9",
+            "interfaces": [
+                {
+                    "mac": "a0:36:9f:27:f7:d0",
+                    "dev_name": "enp37s0f0",
+                    "bus_address": "pci@0000:25:00.0",
+                    "current_configuration": {
+                        "link_detected": false,
+                        "link_speed_val": null,
+                        "link_speed_unit": null,
+                        "transceiver_type": "Internal transceiver",
+                        "transceiver_model": null,
+                        "transceiver_modes": [
+                            "100baseT/Full",
+                            "1000baseT/Full",
+                            "10000baseT/Full",
+                            "2500baseT/Full",
+                            "5000baseT/Full"
+                        ],
+                        "transceiver_medium": "Twisted Pair Cable",
+                        "transceiver_serial": null,
+                        "transceiver_revision": null
+                    }
+                },
+                {
+                    "mac": "a0:36:9f:27:f7:d2",
+                    "dev_name": "enp37s0f1",
+                    "bus_address": "pci@0000:25:00.1",
+                    "current_configuration": {
+                        "link_detected": true,
+                        "link_speed_val": 10,
+                        "link_speed_unit": "Gbit/s",
+                        "transceiver_type": "Internal transceiver",
+                        "transceiver_model": null,
+                        "transceiver_modes": [
+                            "100baseT/Full",
+                            "1000baseT/Full",
+                            "10000baseT/Full",
+                            "2500baseT/Full",
+                            "5000baseT/Full"
+                        ],
+                        "transceiver_medium": "Twisted Pair Cable",
+                        "transceiver_serial": null,
+                        "transceiver_revision": null
+                    }
+                }
+            ],
+            "bus_address": "pci@0000:25:00.{0,1}"
+        },
+        {
+            "model": "X550",
+            "vendor": "Intel",
+            "version": "01",
+            "firmware": "0x80000492",
+            "interfaces": [
+                {
+                    "mac": "a0:36:9f:f8:1c:98",
+                    "dev_name": "enp99s0f0",
+                    "bus_address": "pci@0000:63:00.0",
+                    "current_configuration": {
+                        "link_detected": false,
+                        "link_speed_val": null,
+                        "link_speed_unit": null,
+                        "transceiver_type": "Internal transceiver",
+                        "transceiver_model": null,
+                        "transceiver_modes": [
+                            "100baseT/Full",
+                            "1000baseT/Full",
+                            "10000baseT/Full",
+                            "2500baseT/Full",
+                            "5000baseT/Full"
+                        ],
+                        "transceiver_medium": "Twisted Pair Cable",
+                        "transceiver_serial": null,
+                        "transceiver_revision": null
+                    }
+                },
+                {
+                    "mac": "a0:36:9f:f8:1c:99",
+                    "dev_name": "enp99s0f1",
+                    "bus_address": "pci@0000:63:00.1",
+                    "current_configuration": {
+                        "link_detected": true,
+                        "link_speed_val": 10,
+                        "link_speed_unit": "Gbit/s",
+                        "transceiver_type": "Internal transceiver",
+                        "transceiver_model": null,
+                        "transceiver_modes": [
+                            "100baseT/Full",
+                            "1000baseT/Full",
+                            "10000baseT/Full",
+                            "2500baseT/Full",
+                            "5000baseT/Full"
+                        ],
+                        "transceiver_medium": "Twisted Pair Cable",
+                        "transceiver_serial": null,
+                        "transceiver_revision": null
+                    }
+                }
+            ],
+            "bus_address": "pci@0000:63:00.{0,1}"
+        },
+        {
+            "model": "E810-XXV for SFP",
+            "vendor": "Intel",
+            "version": "02",
+            "firmware": "3.20 0x8000d853 1.3146.0",
+            "interfaces": [
+                {
+                    "mac": "50:7c:6f:52:17:64",
+                    "dev_name": "enp101s0f0",
+                    "bus_address": "pci@0000:65:00.0",
+                    "current_configuration": {
+                        "link_detected": true,
+                        "link_speed_val": 10,
+                        "link_speed_unit": "Gbit/s",
+                        "transceiver_type": "SFP",
+                        "transceiver_model": "P.1396.10",
+                        "transceiver_modes": [
+                            "1000baseX/Full",
+                            "10000baseLR/Full"
+                        ],
+                        "transceiver_medium": "Optical Fiber",
+                        "transceiver_serial": "F78TKGJ",
+                        "transceiver_revision": "A"
+                    }
+                },
+                {
+                    "mac": "50:7c:6f:52:17:65",
+                    "dev_name": "enp101s0f1",
+                    "bus_address": "pci@0000:65:00.1",
+                    "current_configuration": {
+                        "link_detected": true,
+                        "link_speed_val": 10,
+                        "link_speed_unit": "Gbit/s",
+                        "transceiver_type": "SFP",
+                        "transceiver_model": "P.1396.10",
+                        "transceiver_modes": [
+                            "1000baseX/Full",
+                            "10000baseLR/Full"
+                        ],
+                        "transceiver_medium": "Optical Fiber",
+                        "transceiver_serial": "F78PP09",
+                        "transceiver_revision": "A"
+                    }
+                }
+            ],
+            "bus_address": "pci@0000:65:00.{0,1}"
+        }
+    ]
+}

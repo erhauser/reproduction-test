@@ -1,0 +1,14 @@
+{
+    "id": "erhauser_261107_162351_928513",
+    "created": "2026-11-07 16:23:51.928669",
+    "updated": "2026-11-07 16:37:37.859040",
+    "owner": "erhauser",
+    "result_folder": "erhauser/default/2026-11-07_16-23-51_928513",
+    "nodes": [
+        "emulation-host",
+        "evaluator",
+        "server",
+        "sniffer",
+        "client"
+    ]
+}
