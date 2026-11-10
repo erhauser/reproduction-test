@@ -4,7 +4,7 @@
 
 [output.txt](output.txt) contains the printed results. Each option is a set of testbed hosts. Its columns show the possible assignments of Figure 1 nodes and ports to those hosts and interfaces.
 
-With the `net_topology` Python library installed, run this command from this folder to regenerate the output:
+We plan to release the `net_topology` Python library with the camera-ready version of the paper. After the release, install the library and run the following command from this folder to regenerate `output.txt`.
 
 ```sh
 python search.py > output.txt
