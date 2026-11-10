@@ -1,4 +1,4 @@
-# Subtopology search
+# Subtopology Search
 
 [search.py](search.py) searches the [large testbed](../topologies/subtopology-search-large-testbed.json) for the [Figure 1 setup](../topologies/figure-1-bidirectional-splitter.json). It first finds two matching sets of hosts. Requiring at least 100 Gbit/s on all four directed links leaves one set: `avax`, `pact`, and `stoi`.
 

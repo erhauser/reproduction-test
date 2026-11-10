@@ -1,4 +1,4 @@
-# Topology files
+# Topology Files
 
 These JSON files describe the paper’s network setups as YANG instance data.
 
